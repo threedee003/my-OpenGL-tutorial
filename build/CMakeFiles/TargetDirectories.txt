@@ -1,0 +1,3 @@
+/home/adminstrator/Documents/GitHub/my-OpenGL-tutorial/build/CMakeFiles/rebuild_cache.dir
+/home/adminstrator/Documents/GitHub/my-OpenGL-tutorial/build/CMakeFiles/edit_cache.dir
+/home/adminstrator/Documents/GitHub/my-OpenGL-tutorial/build/CMakeFiles/my_opengl_tutorial.dir

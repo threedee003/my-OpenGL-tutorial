@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/adminstrator/Documents/GitHub/my-OpenGL-tutorial/build",
+  "command": "/usr/bin/g++    -g   -o CMakeFiles/my_opengl_tutorial.dir/src/main.cpp.o -c /home/adminstrator/Documents/GitHub/my-OpenGL-tutorial/src/main.cpp",
+  "file": "/home/adminstrator/Documents/GitHub/my-OpenGL-tutorial/src/main.cpp"
+}
+]
