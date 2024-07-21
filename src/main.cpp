@@ -3,6 +3,13 @@
 
 
 
+void print(){
+    std::cout << "Hello World!" << std::endl;
+}
+
+
+
+
 void createWindow(){
     
     GLFWwindow* window;
